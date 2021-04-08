@@ -12,3 +12,4 @@ Very simple config: runs linked on a `MySQL8` using the `JDBC Java tech`, served
 Front-end it's basically `bootstrap4`.
 
 ## How does it looks like?
+(https://github.com/Pyzyryab/ClientsManager/blob/main/src/main/resources/img/main.jpg)
