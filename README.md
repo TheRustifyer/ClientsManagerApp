@@ -12,4 +12,12 @@ Very simple config: runs linked on a `MySQL8` using the `JDBC Java tech`, served
 Front-end it's basically `bootstrap4`.
 
 ## How does it looks like?
+
+### Main Screen
 ![Finished App](https://github.com/Pyzyryab/ClientsManager/blob/main/src/main/resources/img/main.jpg)
+
+### Inserting new client
+![New Client](https://github.com/Pyzyryab/ClientsManager/blob/main/src/main/resources/img/addClient.jpg)
+
+### Modify / Delete a client
+![m/d](https://github.com/Pyzyryab/ClientsManager/blob/main/src/main/resources/img/modifyClient.jpg)
